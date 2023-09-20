@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,400;1,600&family=Noto+Serif&family=Prata&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    height: 100%;
+}
+
+.main-section{
+    padding: 20px;
+}
+
+.image-container1{
+   height: 500px;
+   max-width: 50%;
+   background-image: url(./assets/Duomo_vecchio_facciata_Brescia.jpg);
+   background-repeat: no-repeat;  
+}
+
+.image-container2{
+    max-width: 50%;
+    height: 500px;
+    background-image: url(./assets/Le-Piazze-della-Capitale-–-7-scaled.jpg);
+    background-repeat: no-repeat;  
+ }
+
+ .image-container3{
+    max-width: 50%;
+    height: 500px;
+    background-image: url(./assets/2480X1000_piazzale_della_loggia_destination\ \(2\).jpg);
+    background-repeat: no-repeat;  
+ }
+
+ .image-container4{
+    max-width: 50%;
+    height: 500px;
+    background-image: url(./assets/Parco-archeologico-di-Brescia-romana-1069x720.jpg);
+    background-repeat: no-repeat;  
+ }
+
+ .image-container5{
+    max-width: 50%;
+    height: 500px;
+    background-image: url(./assets/1920px-Corso_Zanardelli_e_Teatro_Grande_Brescia.jpg);
+    background-repeat: no-repeat;  
+ }
+
+ .image-container6{
+    max-width: 50%;
+    height: 500px;
+    background-image: url(./assets/image.jpg);
+    background-repeat: no-repeat;    
+ }
+
+h1{
+    font-family: 'Prata', sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+h3{
+    font-family: 'Prata', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a{
+    font-weight: 600;
+    font-style: italic;
+}
+
+.luoghi1{
+    font-size: 18px;
+    padding: 22px;
+    margin-bottom: 0;
+    margin-top: 56px;
+    color: white; 
+    border-radius: 6px;
+    background-image: linear-gradient(64deg, #78a9e4, #e8e6da);
+}
+
+.luoghi2{
+    font-size: 18px;
+    padding: 22px;
+    margin-bottom: 0;
+    margin-top: 56px;
+    color: white; 
+    border-radius: 6px;
+    background-image: linear-gradient(64deg, #4a4f55, #fcfae5);
+}
+
+.luoghi3{
+    font-size: 18px;
+    padding: 22px;
+    margin-bottom: 0;
+    margin-top: 56px;
+    color: white; 
+    border-radius: 6px;
+    background-image: linear-gradient(316deg, #f9ac5f, #93726b);
+}
+
+.luoghi4{
+    font-size: 18px;
+    padding: 22px;
+    margin-bottom: 0;
+    margin-top: 56px;
+    color: white; 
+    border-radius: 6px;
+    background-image: linear-gradient(95deg, #a8927d, #bfbbb8);
+}
+
+.luoghi5{
+    font-size: 18px;
+    padding: 22px;
+    margin-bottom: 0;
+    margin-top: 56px;
+    color: white; 
+    border-radius: 6px;
+    background-image: linear-gradient(95deg, #223b42, #eabe9d);
+}
+
+.luoghi6{
+    font-size: 18px;
+    padding: 22px;
+    margin-bottom: 0;
+    margin-top: 56px;
+    color: white; 
+    border-radius: 6px;
+    background-image: linear-gradient(95deg, #916c3f, #bdc2c6);
+}
+
+ul{
+    list-style:none;
+    padding-left: 0;
+}
+
+li{
+    padding: 6px 0 6px 22px;
+    border-bottom: 1px #dfdfdf;  
+}
+
+a{
+    text-decoration: none;
+}
+
+a.vis:visited{
+    color:#78a9e4; 
+    text-decoration: none;
+}
+
+a.vis2:visited{
+    color:#4a4f55; 
+    text-decoration: none;
+}
+
+a.vis3:visited{
+    color:#93726b; 
+    text-decoration: none;
+}
+
+a.vis4:visited{
+    color:#a8927d; 
+    text-decoration: none;
+}
+
+a.vis5:visited{
+    color:#223b42; 
+    text-decoration: none;
+}
+
+a.vis6:visited{
+    color:#916c3f; 
+    text-decoration: none;
+}
+
+footer{
+    background-color: black;
+    padding: 16px;
+    text-align: center;
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+#index{
+    color: white;
+}
